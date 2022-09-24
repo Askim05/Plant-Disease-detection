@@ -6,7 +6,7 @@ This dataset have 3 files:
   2.Train data
   3.Valid
   
- Download the plant disease detection code and run it on GOOGLE-COLAB 
+ Download the plant disease detection code and run it on GOOGLE-COLAB --> use my other repository for code and other details.
  upload the dataset and run the code.
  
  Use the srp-f doc for preparing the paper on the project.
